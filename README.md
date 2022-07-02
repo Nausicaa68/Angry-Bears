@@ -9,7 +9,7 @@ However, beware of orcas, nets and rocks.
 The goal of the game is to go as far as possible, which increases the player's score.
 In addition, there is a wide variety of bears that you can unlock by spending fish, the game's currency, in the store.
 
-# Prerequisites
+## Prerequisites
 
 You must have pygame installed: **`pip install pygame`**
 
